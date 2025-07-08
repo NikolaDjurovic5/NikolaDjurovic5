@@ -30,7 +30,7 @@ Sve projekte možete pogledati direktno u mom GitHub profilu [ovde](https://gith
 
 ## 📫 Kontakt
 
-- LinkedIn: [linkedin.com/in/NikolaDjurovic]([https://www.linkedin.com/in/tvojprofil](https://www.linkedin.com/in/nikola-djurovic-4067b6342/))  
+- LinkedIn: [https://www.linkedin.com/in/tvojprofil](https://www.linkedin.com/in/nikola-djurovic-4067b6342/]([https://www.linkedin.com/in/tvojprofil](https://www.linkedin.com/in/nikola-djurovic-4067b6342/))  
 - Email: [nikoladurovic5@gmail.com](mailto:nikoladurovic5@gmail.com)
 
 ---
