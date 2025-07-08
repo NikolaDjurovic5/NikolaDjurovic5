@@ -1,4 +1,4 @@
-# 👋 Zdravo, ja sam Nikola Djurović
+# 👋 Zdravo, ja sam Nikola Đurović
 
 ![Nikola GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolaDjurovic5&show_icons=true&theme=dark&count_private=true)
 
